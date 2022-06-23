@@ -3,7 +3,7 @@ package fki18n
 import (
 	"fmt"
 
-	fkstr "gitlab.com/fkmatsuda.dev/go/fk_str"
+	fkstr "github.com/fkmatsuda/fk_str"
 )
 
 // LanguageKey is a type definition for a language indentification

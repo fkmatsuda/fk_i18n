@@ -1,2 +1,2 @@
-gitlab.com/fkmatsuda.dev/go/fk_str v1.0.0 h1:6DFcLihk6QmSICDt9QQe0XqiPD5aR8/DbK/DJjq0R8c=
-gitlab.com/fkmatsuda.dev/go/fk_str v1.0.0/go.mod h1:c3WEBQ5SH4yn52/0O0diMt6dPu51ojGOO+FSTM7bTL0=
+github.com/fkmatsuda/fk_str v0.0.0-20220622021441-78abbb2f8283 h1:EqsBG51KLfz636dF9WZMf+EMBTED1jQJBLIiQjYs9dk=
+github.com/fkmatsuda/fk_str v0.0.0-20220622021441-78abbb2f8283/go.mod h1:yVYeha40OX4hXmDaLpyNBwL1lMtjXL55rojmulnjt10=
